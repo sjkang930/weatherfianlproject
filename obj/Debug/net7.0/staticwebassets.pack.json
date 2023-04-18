@@ -1,8 +1,24 @@
 {
   "Files": [
     {
-      "Id": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/js/signalr/dist/browser/signalr.js",
-      "PackagePath": "staticwebassets/js/signalr/dist/browser/signalr.js"
+      "Id": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/assets/index-37035a9c.css",
+      "PackagePath": "staticwebassets/assets/index-37035a9c.css"
+    },
+    {
+      "Id": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/assets/index-93ffb4de.js",
+      "PackagePath": "staticwebassets/assets/index-93ffb4de.js"
+    },
+    {
+      "Id": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/assets/sunset2-f189bcfc.jpg",
+      "PackagePath": "staticwebassets/assets/sunset2-f189bcfc.jpg"
+    },
+    {
+      "Id": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/vite.svg",
+      "PackagePath": "staticwebassets/vite.svg"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Weather.Microsoft.AspNetCore.StaticWebAssets.props",
