@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/js/signalr/dist/browser/signalr.js",
+      "PackagePath": "staticwebassets/js/signalr/dist/browser/signalr.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Weather.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Weather.props",
+      "PackagePath": "build\\Weather.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Weather.props",
+      "PackagePath": "buildMultiTargeting\\Weather.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Weather.props",
+      "PackagePath": "buildTransitive\\Weather.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

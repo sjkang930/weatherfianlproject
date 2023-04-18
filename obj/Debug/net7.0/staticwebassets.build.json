@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ugWxBtxESt4+Ch/j5jhjCCCJnJr7QI5VKZEni/+kCBQ=",
+  "Source": "Weather",
+  "BasePath": "_content/Weather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Weather/wwwroot",
+      "Source": "Weather",
+      "ContentRoot": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/",
+      "BasePath": "_content/Weather",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/js/signalr/dist/browser/signalr.js",
+      "SourceId": "Weather",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sujikang/Desktop/term4/C-sharp2/final/Weather/wwwroot/",
+      "BasePath": "_content/Weather",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/signalr/dist/browser/signalr.js"
+    }
+  ]
+}
